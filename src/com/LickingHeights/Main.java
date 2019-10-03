@@ -16,9 +16,23 @@ public class Main {
 
         System.out.println("WOW! that's smart");
 
+        System.out.println("You should do that!");
 
+        System.out.println("Go for it!");
 
+        System.out.println("That wouldn't be a bad idea!");
 
+        System.out.println("Give it a try!");
+
+        System.out.println("That's a bad idea.");
+
+        System.out.println("Don't do it.");
+
+        System.out.println("That's not smart.");
+
+        System.out.println("You shouldn't do it.");
+
+        System.out.println("That's not a smart idea.");
 
 
 
