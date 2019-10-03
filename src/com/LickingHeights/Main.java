@@ -15,19 +15,19 @@ public class Main {
         //initialize
         int number;
 
-        System.out.println("WOW! that's smart");
+        String tenResponse = "WOW! that's smart";
 
-        System.out.println("You should do that!");
+        String nineResponse = "You should do that!";
 
-        System.out.println("Go for it!");
+        String eightResponse = "Go for it!";
 
-        System.out.println("That wouldn't be a bad idea!");
+        String seventhResponse = "That wouldn't be a bad idea!";
 
-        System.out.println("Give it a try!");
+        String sixthResponse ="Give it a try!";
 
-        System.out.println("That's a bad idea.");
+        String fifthResponse = "That's a bad idea.";
 
-        System.out.println("Don't do it.");
+        String fourthResponse = "Don't do it.";
 
         String thirdResponse = "That's not smart.";
 
@@ -48,20 +48,24 @@ public class Main {
             if( number> 11 && number <=20)
 
                 if( number> 21 && number <=30)
-
+            System.out.println(thirdResponse);
                     if( number> 31 && number <=40)
-
+            System.out.println(fourthResponse);
                         if( number> 41 && number <=50)
-
+            System.out.println(fifthResponse);
                             if( number> 51 && number <=60)
-
+            System.out.println(sixthResponse);
                                 if( number> 61 && number <=70)
-
+            System.out.println(seventhResponse);
                                     if( number> 71 && number <=80)
+             System.out.println(eightResponse);
 
                                         if( number> 81 && number <=90)
+            System.out.println(nineResponse);
 
-                                            if( number> 91 && number <=100)
+                                            if( number> 91 && number <=100){
+            System.out.println(tenResponse);
+                                            }
 
     }
 }
